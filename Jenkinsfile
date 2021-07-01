@@ -1,4 +1,4 @@
 @Library("mahisakapal@main") _
 pushDockerHub(
-ecrRepoName: 'webloginjmsapp'
+ecrRepoName: 'web_login_automation'
 )
